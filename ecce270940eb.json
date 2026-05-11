@@ -1,0 +1,383 @@
+{
+  "name": "1213",
+  "game_version": null,
+  "created_by": "sts2-mod-manager",
+  "mods": [
+    {
+      "name": "Alice",
+      "version": "1.0",
+      "source": null,
+      "hash": "18ad42db3809ee19cd62c51707d138682e97a6bf5743010880e9d0242fe4aed3",
+      "files": [
+        "Alice\\Alice.dll",
+        "Alice\\Alice.json",
+        "Alice\\Alice.pck",
+        "Alice\\sounds\\乌梅干.wav",
+        "Alice\\sounds\\死亡音效.wav",
+        "Alice\\sounds\\爱丽丝额啊.wav",
+        "Alice\\sounds\\选人.wav",
+        "Alice\\sounds\\邦邦卡邦.wav"
+      ],
+      "folder_name": "Alice",
+      "mod_id": "Alice",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/taiwanyanmo/sts2mm-profiles/main/mods/Alice_1.0.zip"
+    },
+    {
+      "name": "Artanis",
+      "version": "v1.00",
+      "source": null,
+      "hash": "912b922b139f5afa04f2563bd0c38e1dbc4df2c247795644070e1ef4a7384f9e",
+      "files": [
+        "Artanis\\Artanis.dll",
+        "Artanis\\Artanis.json",
+        "Artanis\\Artanis.pck"
+      ],
+      "folder_name": "Artanis",
+      "mod_id": "Artanis",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/taiwanyanmo/sts2mm-profiles/main/mods/Artanis_1.00.zip"
+    },
+    {
+      "name": "BaseLib",
+      "version": "unknown",
+      "source": null,
+      "hash": "54ab82b7a141e9afb03438cbbfb6ec079c182dbddcba760a9c0ea4e7a32d5de0",
+      "files": [
+        "Download-103-3-1-0-1777360959\\BaseLib.dll",
+        "Download-103-3-1-0-1777360959\\BaseLib.pck"
+      ],
+      "folder_name": "Download-103-3-1-0-1777360959",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/taiwanyanmo/sts2mm-profiles/main/mods/BaseLib_unknown.zip"
+    },
+    {
+      "name": "BetterSpire2",
+      "version": "v1.79",
+      "source": null,
+      "hash": "62f9b6f35e5f785d60fb01c4ac62d6f623aed3a90f42261ebb51f4102a9c470f",
+      "files": [
+        "BetterSpire2-2-1-80-1776968729\\BetterSpire2.dll",
+        "BetterSpire2-2-1-80-1776968729\\BetterSpire2.json",
+        "BetterSpire2-2-1-80-1776968729\\BetterSpire2_localization\\deu.json",
+        "BetterSpire2-2-1-80-1776968729\\BetterSpire2_localization\\eng.json",
+        "BetterSpire2-2-1-80-1776968729\\BetterSpire2_localization\\esp.json",
+        "BetterSpire2-2-1-80-1776968729\\BetterSpire2_localization\\fra.json",
+        "BetterSpire2-2-1-80-1776968729\\BetterSpire2_localization\\ita.json",
+        "BetterSpire2-2-1-80-1776968729\\BetterSpire2_localization\\jpn.json",
+        "BetterSpire2-2-1-80-1776968729\\BetterSpire2_localization\\kor.json",
+        "BetterSpire2-2-1-80-1776968729\\BetterSpire2_localization\\pol.json",
+        "BetterSpire2-2-1-80-1776968729\\BetterSpire2_localization\\ptb.json",
+        "BetterSpire2-2-1-80-1776968729\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2-2-1-80-1776968729\\BetterSpire2_localization\\rus.json",
+        "BetterSpire2-2-1-80-1776968729\\BetterSpire2_localization\\spa.json",
+        "BetterSpire2-2-1-80-1776968729\\BetterSpire2_localization\\tha.json",
+        "BetterSpire2-2-1-80-1776968729\\BetterSpire2_localization\\tur.json",
+        "BetterSpire2-2-1-80-1776968729\\BetterSpire2_localization\\zhs.json"
+      ],
+      "folder_name": "BetterSpire2-2-1-80-1776968729",
+      "mod_id": "BetterSpire2",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/taiwanyanmo/sts2mm-profiles/main/mods/BetterSpire2_1.79.zip"
+    },
+    {
+      "name": "Chen Ironclad",
+      "version": "v1.0.2",
+      "source": null,
+      "hash": "950971c4eb5b683d797780bad603fa8c2bc9c3db626a37d2c8382878529213fc",
+      "files": [
+        "ChenIronclad\\ChenIronclad.dll",
+        "ChenIronclad\\ChenIronclad.json",
+        "ChenIronclad\\ChenIronclad.pck"
+      ],
+      "folder_name": "ChenIronclad",
+      "mod_id": "ChenIronclad",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/taiwanyanmo/sts2mm-profiles/main/mods/Chen_Ironclad_1.0.2.zip"
+    },
+    {
+      "name": "DirectConnectIP",
+      "version": "1.2.7",
+      "source": null,
+      "hash": "eeca9ea1f3b9b3e473233a18dd09fe4f5a4a712990c0ec0bfce56eb357f2c6f3",
+      "files": [
+        "sts2-DirectConnectIP-v1.2.7-267-1-2-7-1774953763\\DirectConnectIP.dll",
+        "sts2-DirectConnectIP-v1.2.7-267-1-2-7-1774953763\\DirectConnectIP.json",
+        "sts2-DirectConnectIP-v1.2.7-267-1-2-7-1774953763\\DirectConnectIP.pck"
+      ],
+      "folder_name": "sts2-DirectConnectIP-v1.2.7-267-1-2-7-1774953763",
+      "mod_id": "DirectConnectIP",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/taiwanyanmo/sts2mm-profiles/main/mods/DirectConnectIP_1.2.7.zip"
+    },
+    {
+      "name": "KasuganoSoraDoor",
+      "version": "v1.0.1",
+      "source": null,
+      "hash": "9a281d4c9f51409c4c961796ab864aeb7b8494eb65d5d1e29023969cf59e7a21",
+      "files": [
+        "KasuganoSoraDoor-723-1-0-1-1777480393\\KasuganoSoraDoor.dll",
+        "KasuganoSoraDoor-723-1-0-1-1777480393\\KasuganoSoraDoor.json",
+        "KasuganoSoraDoor-723-1-0-1-1777480393\\KasuganoSoraDoor.pck"
+      ],
+      "folder_name": "KasuganoSoraDoor-723-1-0-1-1777480393",
+      "mod_id": "KasuganoSoraDoor",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/taiwanyanmo/sts2mm-profiles/main/mods/KasuganoSoraDoor_1.0.1.zip"
+    },
+    {
+      "name": "Load Order Manager / 模组加载顺序管理",
+      "version": "0.2.1",
+      "source": null,
+      "hash": "e4934f7f3e0f9ae2e7f7f2d35b8b2c790a6e24c4b788650a1dc6f2438d2cdfc2",
+      "files": [
+        "LoadOrderManager\\i18n\\de.lang",
+        "LoadOrderManager\\i18n\\en.lang",
+        "LoadOrderManager\\i18n\\es-419.lang",
+        "LoadOrderManager\\i18n\\es-ES.lang",
+        "LoadOrderManager\\i18n\\fr.lang",
+        "LoadOrderManager\\i18n\\it.lang",
+        "LoadOrderManager\\i18n\\ja.lang",
+        "LoadOrderManager\\i18n\\ko.lang",
+        "LoadOrderManager\\i18n\\pl.lang",
+        "LoadOrderManager\\i18n\\pt-BR.lang",
+        "LoadOrderManager\\i18n\\ru.lang",
+        "LoadOrderManager\\i18n\\tr.lang",
+        "LoadOrderManager\\i18n\\zhs.lang",
+        "LoadOrderManager\\i18n\\zht.lang",
+        "LoadOrderManager\\LoadOrderManager.dll",
+        "LoadOrderManager\\mod_manifest.json"
+      ],
+      "folder_name": "LoadOrderManager",
+      "mod_id": "LoadOrderManager",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/taiwanyanmo/sts2mm-profiles/main/mods/Load_Order_Manager___模组加载顺序管理_0.2.1.zip"
+    },
+    {
+      "name": "Manosaba",
+      "version": "v1.5.5",
+      "source": null,
+      "hash": "b96a2b25197ee99d97b43ca7ecc522932fb7e4bb3d41b91caa1be0c23800d07d",
+      "files": [
+        "Manosaba\\Manosaba.dll",
+        "Manosaba\\Manosaba.json",
+        "Manosaba\\Manosaba.pck"
+      ],
+      "folder_name": "Manosaba",
+      "mod_id": "Manosaba",
+      "enabled": true
+    },
+    {
+      "name": "Mesugaki_Regent",
+      "version": "0.1.1",
+      "source": null,
+      "hash": "ffefe011aebe19ae759c0750181bf4bc53157c3706b292230d46e03c229a0fd0",
+      "files": [
+        "Mesugaki Regent 0.1.1-502-0-1-1-1776098369\\Mesugaki.dll",
+        "Mesugaki Regent 0.1.1-502-0-1-1-1776098369\\Mesugaki.json",
+        "Mesugaki Regent 0.1.1-502-0-1-1-1776098369\\Mesugaki.pck"
+      ],
+      "folder_name": "Mesugaki Regent 0.1.1-502-0-1-1-1776098369",
+      "mod_id": "Mesugaki",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/taiwanyanmo/sts2mm-profiles/main/mods/Mesugaki_Regent_0.1.1.zip"
+    },
+    {
+      "name": "MOD Sync Checker / 模组同步检测器",
+      "version": "1.2.3",
+      "source": null,
+      "hash": "f5d3967fbafa362cc74f986e2a030cce3f8addf2da92cc69e38ad145dfa39da9",
+      "files": [
+        "ModSyncChecker\\i18n\\en.json",
+        "ModSyncChecker\\i18n\\ja.json",
+        "ModSyncChecker\\i18n\\ko.json",
+        "ModSyncChecker\\i18n\\README.md",
+        "ModSyncChecker\\i18n\\zh.json",
+        "ModSyncChecker\\ModSyncChecker.dll",
+        "ModSyncChecker\\mod_manifest.json"
+      ],
+      "folder_name": "ModSyncChecker",
+      "mod_id": "ModSyncChecker",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/taiwanyanmo/sts2mm-profiles/main/mods/MOD_Sync_Checker___模组同步检测器_1.2.3.zip"
+    },
+    {
+      "name": "ModSync",
+      "version": "v1.04",
+      "source": null,
+      "hash": "fcb5039bee914ffd587f298ba34f7d80c6b298dd5523c96e672f5166417ddb21",
+      "files": [
+        "ModSync\\ModSync.dll",
+        "ModSync\\ModSync.json",
+        "ModSync\\ModSync.pck"
+      ],
+      "folder_name": "ModSync",
+      "mod_id": "ModSync",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/taiwanyanmo/sts2mm-profiles/main/mods/ModSync_1.04.zip"
+    },
+    {
+      "name": "Remilia",
+      "version": "v0.0.1",
+      "source": null,
+      "hash": "6bb5ff1e59dead8bd4179bb0834ef2ca9a829b68fe153add93ce9d236a5a32ea",
+      "files": [
+        "Remilia-630-8-1778258274\\Remilia.dll",
+        "Remilia-630-8-1778258274\\Remilia.json",
+        "Remilia-630-8-1778258274\\Remilia.pck"
+      ],
+      "folder_name": "Remilia-630-8-1778258274",
+      "mod_id": "Remilia",
+      "enabled": true
+    },
+    {
+      "name": "RitsuLib (STS2 0.103.2 compat)",
+      "version": "0.2.29",
+      "source": null,
+      "hash": "a50949a8b358f174c693401c2814e9b534959096215c2efcc417caa12c1eaf63",
+      "files": [
+        "STS2.RitsuLib.Compat.0.103.2-137-0-2-29-1778352052\\compat-target.txt",
+        "STS2.RitsuLib.Compat.0.103.2-137-0-2-29-1778352052\\mod_manifest.json",
+        "STS2.RitsuLib.Compat.0.103.2-137-0-2-29-1778352052\\STS2-RitsuLib.dll",
+        "STS2.RitsuLib.Compat.0.103.2-137-0-2-29-1778352052\\STS2-RitsuLib.pdb",
+        "STS2.RitsuLib.Compat.0.103.2-137-0-2-29-1778352052\\STS2-RitsuLib.xml"
+      ],
+      "folder_name": "STS2.RitsuLib.Compat.0.103.2-137-0-2-29-1778352052",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/taiwanyanmo/sts2mm-profiles/main/mods/RitsuLib__STS2_0_103_2_compat__0.2.29.zip"
+    },
+    {
+      "name": "Unified Save Path",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
+      "files": [
+        "UnifiedSavePaths-6-1-0-3-1773792441\\UnifiedSavePath.dll",
+        "UnifiedSavePaths-6-1-0-3-1773792441\\UnifiedSavePath.json",
+        "UnifiedSavePaths-6-1-0-3-1773792441\\UnifiedSavePath.pck"
+      ],
+      "folder_name": "UnifiedSavePaths-6-1-0-3-1773792441",
+      "mod_id": "UnifiedSavePath",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/taiwanyanmo/sts2mm-profiles/main/mods/Unified_Save_Path_1.0.0.zip"
+    },
+    {
+      "name": "心之钢",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "76f0a173582fca878b457b56af4136b6e4c79029ab3274509b421424f226f017",
+      "files": [
+        "Heartsteel\\Heartsteel.dll",
+        "Heartsteel\\Heartsteel.json",
+        "Heartsteel\\Heartsteel.pck",
+        "Heartsteel\\Mono.Cecil.dll",
+        "Heartsteel\\Mono.Cecil.Mdb.dll",
+        "Heartsteel\\Mono.Cecil.Pdb.dll",
+        "Heartsteel\\Mono.Cecil.Rocks.dll",
+        "Heartsteel\\MonoMod.Backports.dll",
+        "Heartsteel\\MonoMod.Core.dll",
+        "Heartsteel\\MonoMod.Iced.dll",
+        "Heartsteel\\MonoMod.ILHelpers.dll",
+        "Heartsteel\\MonoMod.RuntimeDetour.dll",
+        "Heartsteel\\MonoMod.Utils.dll"
+      ],
+      "folder_name": "Heartsteel",
+      "mod_id": "Heartsteel",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/taiwanyanmo/sts2mm-profiles/main/mods/心之钢_0.1.0.zip"
+    },
+    {
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.3",
+      "source": null,
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
+      "files": [
+        "ModConfig\\ModConfig\\ModConfig.dll",
+        "ModConfig\\ModConfig\\ModConfig.json",
+        "ModConfig\\ModConfig\\ModConfig.pck"
+      ],
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/taiwanyanmo/sts2mm-profiles/main/mods/皮皮配置__ModConfig_0.2.3.zip"
+    },
+    {
+      "name": "Ines Silent",
+      "version": "v1.0.2",
+      "source": null,
+      "hash": "f947228ebeb8107b1607595967b3de928691f73e95172dfeac10f685ca0e1188",
+      "files": [
+        "InesSilent\\InesSilent.dll",
+        "InesSilent\\InesSilent.json",
+        "InesSilent\\InesSilent.pck"
+      ],
+      "folder_name": "InesSilent",
+      "mod_id": "InesSilent",
+      "enabled": false,
+      "bundle_url": "https://raw.githubusercontent.com/taiwanyanmo/sts2mm-profiles/main/mods/Ines_Silent_1.0.2.zip"
+    },
+    {
+      "name": "Kaltsit Necrobinder",
+      "version": "1.1.4",
+      "source": null,
+      "hash": "1afacb83c305e826706699482c5911f7ec4182aad9528b57e627aca23434129b",
+      "files": [
+        "KaltsitNecrobinder-221-1-1-4-1776776474\\KaltsitNecrobinder.dll",
+        "KaltsitNecrobinder-221-1-1-4-1776776474\\KaltsitNecrobinder.json",
+        "KaltsitNecrobinder-221-1-1-4-1776776474\\KaltsitNecrobinder.pck"
+      ],
+      "folder_name": "KaltsitNecrobinder-221-1-1-4-1776776474",
+      "mod_id": "KaltsitNecrobinder",
+      "enabled": false,
+      "bundle_url": "https://raw.githubusercontent.com/taiwanyanmo/sts2mm-profiles/main/mods/Kaltsit_Necrobinder_1.1.4.zip"
+    },
+    {
+      "name": "基石符文",
+      "version": "0.3.2",
+      "source": null,
+      "hash": "c6ff6fa81b3d280ed6a38d8003cef25aa13a1d56fc302f7bb554f97fe3202e2d",
+      "files": [
+        "KeystoneRunes\\KeystoneRunes.dll",
+        "KeystoneRunes\\KeystoneRunes.json",
+        "KeystoneRunes\\KeystoneRunes.pck"
+      ],
+      "folder_name": "KeystoneRunes",
+      "mod_id": "KeystoneRunes",
+      "enabled": false,
+      "bundle_url": "https://raw.githubusercontent.com/taiwanyanmo/sts2mm-profiles/main/mods/基石符文_0.3.2.zip"
+    },
+    {
+      "name": "海克斯符文",
+      "version": "0.5.4",
+      "source": null,
+      "hash": "9bf07841847484ded499ad02ac89d7f1cd779ad4d3eafff9fd941a59afc21c2f",
+      "files": [
+        "HextechRunes\\HextechRunes\\HextechRunes.dll",
+        "HextechRunes\\HextechRunes\\HextechRunes.json",
+        "HextechRunes\\HextechRunes\\HextechRunes.pck"
+      ],
+      "folder_name": "HextechRunes",
+      "mod_id": "HextechRunes",
+      "enabled": false,
+      "bundle_url": "https://raw.githubusercontent.com/taiwanyanmo/sts2mm-profiles/main/mods/海克斯符文_0.5.4.zip"
+    },
+    {
+      "name": "莫德凯撒",
+      "version": "0.1.8",
+      "source": null,
+      "hash": "ac831d274f42eb8b4ea523448e1887c6869ffe4fbcad1c58d26a5af2b3458a57",
+      "files": [
+        "Mordekaiser\\Mordekaiser.dll",
+        "Mordekaiser\\Mordekaiser.json",
+        "Mordekaiser\\Mordekaiser.pck"
+      ],
+      "folder_name": "Mordekaiser",
+      "mod_id": "Mordekaiser",
+      "enabled": false,
+      "bundle_url": "https://raw.githubusercontent.com/taiwanyanmo/sts2mm-profiles/main/mods/莫德凯撒_0.1.8.zip"
+    }
+  ],
+  "created_at": "2026-05-11T10:11:53.823156100Z",
+  "updated_at": "2026-05-11T10:11:53.823156100Z"
+}
